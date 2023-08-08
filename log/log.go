@@ -27,7 +27,7 @@ var (
 	Error  = errorLog.Println
 	Errorf = errorLog.Printf
 	Info   = infoLog.Println
-	infof  = infoLog.Printf
+	Infof  = infoLog.Printf
 )
 
 // log levels
